@@ -48,12 +48,12 @@
         	{
         		"id": 30,
         		"subCategoryName": "subOne",
-        		"type": "subSubCategory",
-        		"subSubCategories":
+        		"type": "subCategory",
+        		"subCategories":
         		[
         			{
         				"id": 300,
-        				"subSubCategoryName": "subSubOne",
+        				"subCategoryName": "subSubOne",
         				"type": "article",
 		        		"title": "subSubOne",
 		        		"content": "subSubOne",
@@ -61,7 +61,7 @@
         			},
         			{
         				"id": 301,
-        				"subSubCategoryName": "subSubTwo",
+        				"subCategoryName": "subSubTwo",
         				"type": "article",
 		        		"title": "subSubTwo",
 		        		"content": "subSubTwo",
@@ -69,7 +69,7 @@
         			},
         			{
         				"id": 302,
-        				"subSubCategoryName": "subSubThree",
+        				"subCategoryName": "subSubThree",
         				"type": "article",
 		        		"title": "subSubThree",
 		        		"content": "subSubThree",
