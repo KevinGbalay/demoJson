@@ -94,7 +94,7 @@
         		[
         			{
         				"id": 500,
-        				"subSubCategoryName": "subSubOne",
+        				"subCategoryName": "subSubOne",
         				"type": "article",
 		        		"title": "subSubOne",
 		        		"content": "subSubOne",
@@ -102,7 +102,7 @@
         			},
         			{
         				"id": 501,
-        				"subSubCategoryName": "subSubTwo",
+        				"subCategoryName": "subSubTwo",
         				"type": "article",
 		        		"title": "subSubTwo",
 		        		"content": "subSubTwo",
@@ -110,7 +110,7 @@
         			},
         			{
         				"id": 502,
-        				"subSubCategoryName": "subSubThree",
+        				"subCategoryName": "subSubThree",
         				"type": "article",
 		        		"title": "subSubThree",
 		        		"content": "subSubThree",
