@@ -5,7 +5,7 @@
         "type": "article",
         "title": "one",
         "content": "one",
-        "path": "one",
+        "path": "one"
     },
     {
     	"id": 2,
@@ -19,7 +19,7 @@
         		"type": "article",
         		"title": "subOne",
         		"content": "subOne",
-        		"path": "subOne",
+        		"path": "subOne"
         	},
         	{
         		"id": 21,
@@ -27,7 +27,7 @@
         		"type": "article",
         		"title": "subTwo",
         		"content": "subTwo",
-        		"path": "subTwo",
+        		"path": "subTwo"
         	},
         	{
         		"id": 22,
@@ -35,9 +35,9 @@
         		"type": "article",
         		"title": "subThree",
         		"content": "subThree",
-        		"path": "subThree",
-        	},
-        ],
+        		"path": "subThree"
+        	}
+        ]
     },
     {
     	"id": 3,
@@ -57,7 +57,7 @@
         				"type": "article",
 		        		"title": "subSubOne",
 		        		"content": "subSubOne",
-		        		"path": "subSubOne",
+		        		"path": "subSubOne"
         			},
         			{
         				"id": 301,
@@ -65,7 +65,7 @@
         				"type": "article",
 		        		"title": "subSubTwo",
 		        		"content": "subSubTwo",
-		        		"path": "subSubTwo",
+		        		"path": "subSubTwo"
         			},
         			{
         				"id": 302,
@@ -73,8 +73,8 @@
         				"type": "article",
 		        		"title": "subSubThree",
 		        		"content": "subSubThree",
-		        		"path": "subSubThree",
-        			},
+		        		"path": "subSubThree"
+        			}
         			
         		]
         	},
@@ -84,7 +84,7 @@
         		"type": "article",
         		"title": "subTwo",
         		"content": "subTwo",
-        		"path": "subTwo",
+        		"path": "subTwo"
         	},
         	{
         		"id": 50,
@@ -98,7 +98,7 @@
         				"type": "article",
 		        		"title": "subSubOne",
 		        		"content": "subSubOne",
-		        		"path": "subSubOne",
+		        		"path": "subSubOne"
         			},
         			{
         				"id": 501,
@@ -106,7 +106,7 @@
         				"type": "article",
 		        		"title": "subSubTwo",
 		        		"content": "subSubTwo",
-		        		"path": "subSubTwo",
+		        		"path": "subSubTwo"
         			},
         			{
         				"id": 502,
@@ -114,11 +114,11 @@
         				"type": "article",
 		        		"title": "subSubThree",
 		        		"content": "subSubThree",
-		        		"path": "subSubThree",
-        			},
+		        		"path": "subSubThree"
+        			}
         			
         		]
-        	},
-        ],
-    },
+        	}
+        ]
+    }
 ]
