@@ -90,7 +90,7 @@
         		"id": 50,
         		"subCategoryName": "subThree",
         		"type": "subSubCategory",
-        		"subSubCategories":
+        		"subCategories":
         		[
         			{
         				"id": 500,
