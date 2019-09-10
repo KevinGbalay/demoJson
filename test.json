@@ -1,0 +1,124 @@
+[
+    {
+    	"id": 1,
+        "categoryName": "one",
+        "type": "article",
+        "title": "one",
+        "content": "one",
+        "path": "one",
+    },
+    {
+    	"id": 2,
+        "categoryName": "two",
+        "type": "subCategory",
+        "subCategories":
+        [
+        	{
+        		"id": 20,
+        		"subCategoryName": "subOne",
+        		"type": "article",
+        		"title": "subOne",
+        		"content": "subOne",
+        		"path": "subOne",
+        	},
+        	{
+        		"id": 21,
+        		"subCategoryName": "subTwo",
+        		"type": "article",
+        		"title": "subTwo",
+        		"content": "subTwo",
+        		"path": "subTwo",
+        	},
+        	{
+        		"id": 22,
+        		"subCategoryName": "subThree",
+        		"type": "article",
+        		"title": "subThree",
+        		"content": "subThree",
+        		"path": "subThree",
+        	},
+        ],
+    },
+    {
+    	"id": 3,
+        "categoryName": "three",
+        "type": "subCategory",
+        "subCategories":
+        [
+        	{
+        		"id": 30,
+        		"subCategoryName": "subOne",
+        		"type": "subSubCategory",
+        		"subSubCategories":
+        		[
+        			{
+        				"id": 300,
+        				"subSubCategoryName": "subSubOne",
+        				"type": "article",
+		        		"title": "subSubOne",
+		        		"content": "subSubOne",
+		        		"path": "subSubOne",
+        			},
+        			{
+        				"id": 301,
+        				"subSubCategoryName": "subSubTwo",
+        				"type": "article",
+		        		"title": "subSubTwo",
+		        		"content": "subSubTwo",
+		        		"path": "subSubTwo",
+        			},
+        			{
+        				"id": 302,
+        				"subSubCategoryName": "subSubThree",
+        				"type": "article",
+		        		"title": "subSubThree",
+		        		"content": "subSubThree",
+		        		"path": "subSubThree",
+        			},
+        			
+        		]
+        	},
+        	{
+        		"id": 40,
+        		"subCategoryName": "subTwo",
+        		"type": "article",
+        		"title": "subTwo",
+        		"content": "subTwo",
+        		"path": "subTwo",
+        	},
+        	{
+        		"id": 50,
+        		"subCategoryName": "subThree",
+        		"type": "subSubCategory",
+        		"subSubCategories":
+        		[
+        			{
+        				"id": 500,
+        				"subSubCategoryName": "subSubOne",
+        				"type": "article",
+		        		"title": "subSubOne",
+		        		"content": "subSubOne",
+		        		"path": "subSubOne",
+        			},
+        			{
+        				"id": 501,
+        				"subSubCategoryName": "subSubTwo",
+        				"type": "article",
+		        		"title": "subSubTwo",
+		        		"content": "subSubTwo",
+		        		"path": "subSubTwo",
+        			},
+        			{
+        				"id": 502,
+        				"subSubCategoryName": "subSubThree",
+        				"type": "article",
+		        		"title": "subSubThree",
+		        		"content": "subSubThree",
+		        		"path": "subSubThree",
+        			},
+        			
+        		]
+        	},
+        ],
+    },
+]
