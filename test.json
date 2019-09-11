@@ -1,124 +1,139 @@
 [
     {
-    	"id": 1,
+        "id": 1,
         "categoryName": "one",
         "type": "article",
         "title": "one",
         "content": "https://www.protest.eu/en/rw/inspiration/page/surfable-shorts-men/",
-        "path": "https://mp3l.jamendo.com/?trackid=1314632&format=mp31&from=app-97dab294"
+        "path": "https://mp3l.jamendo.com/?trackid=1314632&format=mp31&from=app-97dab294",
+        "icon": "fertilizers.png"
     },
     {
-    	"id": 2,
+        "id": 2,
         "categoryName": "two",
         "type": "subCategory",
+        "icon": "flowers.png",
         "subCategories":
         [
-        	{
-        		"id": 20,
-        		"subCategoryName": "subOne",
-        		"type": "article",
-        		"title": "subOne",
-        		"content": "subOne",
-        		"path": null
-        	},
-        	{
-        		"id": 21,
-        		"subCategoryName": "subTwo",
-        		"type": "article",
-        		"title": "subTwo",
-        		"content": "subTwo",
-        		"path": "subTwo"
-        	},
-        	{
-        		"id": 22,
-        		"subCategoryName": "subThree",
-        		"type": "article",
-        		"title": "subThree",
-        		"content": "subThree",
-        		"path": "subThree"
-        	}
+            {
+                "id": 20,
+                "subCategoryName": "subOne",
+                "type": "article",
+                "title": "subOne",
+                "content": "subOne",
+                "path": null,
+                "icon": "sprayers.png"
+            },
+            {
+                "id": 21,
+                "subCategoryName": "subTwo",
+                "type": "article",
+                "title": "subTwo",
+                "content": "subTwo",
+                "path": null,
+                "icon": "fertilizers.png"
+            },
+            {
+                "id": 22,
+                "subCategoryName": "subThree",
+                "type": "article",
+                "title": "subThree",
+                "content": "subThree",
+                "path": null,
+                "icon": "pots.png"
+            }
         ]
     },
     {
-    	"id": 3,
+        "id": 3,
         "categoryName": "three",
         "type": "subCategory",
+        "icon": "plants.png",
         "subCategories":
         [
-        	{
-        		"id": 30,
-        		"subCategoryName": "subOne",
-        		"type": "subCategory",
-        		"subCategories":
-        		[
-        			{
-        				"id": 300,
-        				"subCategoryName": "subSubOne",
-        				"type": "article",
-		        		"title": "subSubOne",
-		        		"content": "subSubOne",
-		        		"path": "subSubOne"
-        			},
-        			{
-        				"id": 301,
-        				"subCategoryName": "subSubTwo",
-        				"type": "article",
-		        		"title": "subSubTwo",
-		        		"content": "subSubTwo",
-		        		"path": "subSubTwo"
-        			},
-        			{
-        				"id": 302,
-        				"subCategoryName": "subSubThree",
-        				"type": "article",
-		        		"title": "subSubThree",
-		        		"content": "subSubThree",
-		        		"path": "subSubThree"
-        			}
-        			
-        		]
-        	},
-        	{
-        		"id": 40,
-        		"subCategoryName": "subTwo",
-        		"type": "article",
-        		"title": "subTwo",
-        		"content": "subTwo",
-        		"path": "subTwo"
-        	},
-        	{
-        		"id": 50,
-        		"subCategoryName": "subThree",
-        		"type": "subSubCategory",
-        		"subCategories":
-        		[
-        			{
-        				"id": 500,
-        				"subCategoryName": "subSubOne",
-        				"type": "article",
-		        		"title": "subSubOne",
-		        		"content": "subSubOne",
-		        		"path": "subSubOne"
-        			},
-        			{
-        				"id": 501,
-        				"subCategoryName": "subSubTwo",
-        				"type": "article",
-		        		"title": "subSubTwo",
-		        		"content": "subSubTwo",
-		        		"path": "subSubTwo"
-        			},
-        			{
-        				"id": 502,
-        				"subCategoryName": "subSubThree",
-        				"type": "article",
-		        		"title": "subSubThree",
-		        		"content": "subSubThree",
-		        		"path": "subSubThree"
-        			}
-        			
-        		]
-        	}
+            {
+                "id": 30,
+                "subCategoryName": "subOne",
+                "type": "subCategory",
+                "icon": "fertilizers.png",
+                "subCategories":
+                [
+                    {
+                        "id": 300,
+                        "subCategoryName": "subSubOne",
+                        "type": "article",
+                        "title": "subSubOne",
+                        "content": "subSubOne",
+                        "path": null,
+                        "icon": "sprayers.png"
+                    },
+                    {
+                        "id": 301,
+                        "subCategoryName": "subSubTwo",
+                        "type": "article",
+                        "title": "subSubTwo",
+                        "content": "subSubTwo",
+                        "path": null,
+                        "icon": "seeds.png"
+                    },
+                    {
+                        "id": 302,
+                        "subCategoryName": "subSubThree",
+                        "type": "article",
+                        "title": "subSubThree",
+                        "content": "subSubThree",
+                        "path": null,
+                        "icon": "pots.png"
+                    }
+                    
+                ]
+            },
+            {
+                "id": 40,
+                "subCategoryName": "subTwo",
+                "type": "article",
+                "title": "subTwo",
+                "content": "subTwo",
+                "path": null,
+                "icon": "sprayers.png"
+            },
+            {
+                "id": 50,
+                "subCategoryName": "subThree",
+                "type": "subSubCategory",
+                "icon": "seeds.png",
+                "subCategories":
+                [
+                    {
+                        "id": 500,
+                        "subCategoryName": "subSubOne",
+                        "type": "article",
+                        "title": "subSubOne",
+                        "content": "subSubOne",
+                        "path": null,
+                        "icon": "seeds.png"
+                    },
+                    {
+                        "id": 501,
+                        "subCategoryName": "subSubTwo",
+                        "type": "article",
+                        "title": "subSubTwo",
+                        "content": "subSubTwo",
+                        "path": null,
+                        "icon": "sprayers.png"
+                    },
+                    {
+                        "id": 502,
+                        "subCategoryName": "subSubThree",
+                        "type": "article",
+                        "title": "subSubThree",
+                        "content": "subSubThree",
+                        "path": null,
+                        "icon": "pots.png"
+                    }
+                    
+                ]
+            }
         ]
     },
     {
@@ -127,6 +142,26 @@
         "type": "article",
         "title": "four",
         "content": "four",
-        "path": "four"
+        "path": null,
+        "icon": "pots.png"
+    },
+    {
+        "id": 7,
+        "categoryName": "five",
+        "type": "article",
+        "title": "five",
+        "content": "five",
+        "path": null,
+        "icon": "seeds.png"
+    },
+    {
+        "id": 8,
+        "categoryName": "six",
+        "type": "article",
+        "title": "six",
+        "content": "six",
+        "path": null,
+        "icon": "sprayers.png"
     }
+
 ]
