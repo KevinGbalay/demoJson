@@ -5,7 +5,7 @@
         "type": "article",
         "title": "one",
         "content": "one",
-        "path": "one"
+        "path": "http://listen.livestreamingservice.com/181-jazzmix_128k.mp3"
     },
     {
     	"id": 2,
@@ -19,7 +19,7 @@
         		"type": "article",
         		"title": "subOne",
         		"content": "subOne",
-        		"path": "subOne"
+        		"path": "http://listen.livestreamingservice.com/181-greatoldies_128k.mp3"
         	},
         	{
         		"id": 21,
