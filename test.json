@@ -6,13 +6,13 @@
         "title": "one",
         "content": "https://www.protest.eu/en/rw/inspiration/page/surfable-shorts-men/",
         "path": "https://mp3l.jamendo.com/?trackid=1314632&format=mp31&from=app-97dab294",
-        "icon": "fertilizers.png"
+        "icon": "../../assets/icons/fertilizers.png"
     },
     {
         "id": 2,
         "categoryName": "two",
         "type": "subCategory",
-        "icon": "flowers.png",
+        "icon": "../../assets/icons/flowers.png",
         "subCategories":
         [
             {
@@ -22,7 +22,7 @@
                 "title": "subOne",
                 "content": "subOne",
                 "path": null,
-                "icon": "sprayers.png"
+                "icon": "../../assets/icons/sprayers.png"
             },
             {
                 "id": 21,
@@ -31,7 +31,7 @@
                 "title": "subTwo",
                 "content": "subTwo",
                 "path": null,
-                "icon": "fertilizers.png"
+                "icon": "../../assets/icons/fertilizers.png"
             },
             {
                 "id": 22,
@@ -40,7 +40,7 @@
                 "title": "subThree",
                 "content": "subThree",
                 "path": null,
-                "icon": "pots.png"
+                "icon": "../../assets/icons/pots.png"
             }
         ]
     },
@@ -48,14 +48,14 @@
         "id": 3,
         "categoryName": "three",
         "type": "subCategory",
-        "icon": "plants.png",
+        "icon": "../../assets/icons/plants.png",
         "subCategories":
         [
             {
                 "id": 30,
                 "subCategoryName": "subOne",
                 "type": "subCategory",
-                "icon": "fertilizers.png",
+                "icon": "../../assets/icons/fertilizers.png",
                 "subCategories":
                 [
                     {
@@ -65,7 +65,7 @@
                         "title": "subSubOne",
                         "content": "subSubOne",
                         "path": null,
-                        "icon": "sprayers.png"
+                        "icon": "../../assets/icons/sprayers.png"
                     },
                     {
                         "id": 301,
@@ -74,7 +74,7 @@
                         "title": "subSubTwo",
                         "content": "subSubTwo",
                         "path": null,
-                        "icon": "seeds.png"
+                        "icon": "../../assets/icons/seeds.png"
                     },
                     {
                         "id": 302,
@@ -83,7 +83,7 @@
                         "title": "subSubThree",
                         "content": "subSubThree",
                         "path": null,
-                        "icon": "pots.png"
+                        "icon": "../../assets/icons/pots.png"
                     }
                     
                 ]
@@ -95,13 +95,13 @@
                 "title": "subTwo",
                 "content": "subTwo",
                 "path": null,
-                "icon": "sprayers.png"
+                "icon": "../../assets/icons/sprayers.png"
             },
             {
                 "id": 50,
                 "subCategoryName": "subThree",
                 "type": "subSubCategory",
-                "icon": "seeds.png",
+                "icon": "../../assets/icons/seeds.png",
                 "subCategories":
                 [
                     {
@@ -111,7 +111,7 @@
                         "title": "subSubOne",
                         "content": "subSubOne",
                         "path": null,
-                        "icon": "seeds.png"
+                        "icon": "../../assets/icons/seeds.png"
                     },
                     {
                         "id": 501,
@@ -120,7 +120,7 @@
                         "title": "subSubTwo",
                         "content": "subSubTwo",
                         "path": null,
-                        "icon": "sprayers.png"
+                        "icon": "../../assets/icons/sprayers.png"
                     },
                     {
                         "id": 502,
@@ -129,7 +129,7 @@
                         "title": "subSubThree",
                         "content": "subSubThree",
                         "path": null,
-                        "icon": "pots.png"
+                        "icon": "../../assets/icons/pots.png"
                     }
                     
                 ]
@@ -143,7 +143,7 @@
         "title": "four",
         "content": "four",
         "path": null,
-        "icon": "pots.png"
+        "icon": "../../assets/icons/pots.png"
     },
     {
         "id": 7,
@@ -152,7 +152,7 @@
         "title": "five",
         "content": "five",
         "path": null,
-        "icon": "seeds.png"
+        "icon": "../../assets/icons/seeds.png"
     },
     {
         "id": 8,
@@ -161,7 +161,7 @@
         "title": "six",
         "content": "six",
         "path": null,
-        "icon": "sprayers.png"
+        "icon": "../../assets/icons/sprayers.png"
     }
 
 ]
