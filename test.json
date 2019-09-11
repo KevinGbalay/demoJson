@@ -5,7 +5,7 @@
         "type": "article",
         "title": "one",
         "content": "one",
-        "path": "http://listen.livestreamingservice.com/181-jazzmix_128k.mp3"
+        "path": "https://mp3l.jamendo.com/?trackid=1314632&format=mp31&from=app-97dab294"
     },
     {
     	"id": 2,
@@ -19,7 +19,7 @@
         		"type": "article",
         		"title": "subOne",
         		"content": "subOne",
-        		"path": "http://listen.livestreamingservice.com/181-greatoldies_128k.mp3"
+        		"path": "https://www.freesound.org/data/previews/208/208096_3767678-lq.mp3"
         	},
         	{
         		"id": 21,
